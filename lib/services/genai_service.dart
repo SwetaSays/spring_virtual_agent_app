@@ -72,7 +72,7 @@ class GenAIService {
 
 // class ChatService {
 //   Future<String> sendMessage(String message) async {
-//     const apiKey = 'AIzaSyC5HZaw08_XEoLedtuaKWKdoT5ycJ7oCcc '; // 🔁 Replace with your actual Gemini API key
+//     const apiKey = 'AIzaSyC5HZaw08_XEoLedtuaKWKdoT5ycJ7oCcc ';
 //     final url =
 //         'https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key=$apiKey';
 
